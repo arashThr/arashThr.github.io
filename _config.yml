@@ -3,7 +3,6 @@ markdown:         redcarpet
 highlighter:      true
 gems:
     - jekyll-paginate
-    - jalalidate
 
 # Permalinks
 permalink:        pretty
